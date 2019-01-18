@@ -10,6 +10,11 @@ namespace C0123456
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(1 + 1);
+            int i = 1;
         }
     }
+
+
+   
 }
